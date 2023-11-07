@@ -1,0 +1,235 @@
+[33md662314[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m Add source material from second edition
+[33m8a34a4f[m Change deprecated pd.datetools.timedelta to datetime.timedelta
+[33mbe23269[m Merge pull request #145 from choldgraf/35binder
+[33medf3947[m env.yml
+[33m97c8c91[m Adjust website build to work with colab badges:
+[33m70ba408[m Make colab links part of nav
+[33m6546a7c[m Typo in README
+[33mfb28abb[m Move README badge to top
+[33m3bfea32[m Add Open In Colab badge
+[33md772863[m Remove colab logo from notebooks
+[33m4a2a7b3[m Add colab links to all notebooks
+[33m599aa0f[m Update binder URL in README
+[33me0d23d1[m typo in README
+[33mf51530d[m Add "How to Use" section
+[33m73d9a2a[m Organize headings in README
+[33mb4b34f4[m Add binder badge to README
+[33m058289a[m MAINT: add pelican link in website README
+[33mff8a3ba[m MAINT: Add copy_notebooks to website README instructions
+[33ma03699c[m fix cross-ref link
+[33m511e99f[m change Index intro text
+[33m34f6aaa[m remove unneeded images
+[33m0bbb0e6[m get rid of 'pages' in urls
+[33mbe2c013[m Fix top index
+[33m2395527[m Add landing page
+[33m2e5fd75[m MAINT: fix gitmodules and add README
+[33m8293275[m Make page slugs lowercase
+[33mf42180f[m Fix some links
+[33macdff15[m Fix link issues
+[33m5dd3244[m Update publish info
+[33mdb6e9e8[m copy figures as well
+[33m12a9c39[m add website framework
+[33mdd4e0ae[m BUG: fix link in hierarchical indexing
+[33mc719586[m Add website link on README
+[33mc77d6c2[m MAINT: fix title in index
+[33me3a2257[m MAINT: regularize notebook titles
+[33mde0cc6b[m Merge pull request #74 from ncclementi/patch-1
+[33m475499f[m Remove basemap from requirements.txt
+[33mf3c57a2[m Fix typo in 02.07-Fancy-Indexing
+[33m0a4ba00[m Fix typo in 02.06-Boolean-Arrays-and-Masks
+[33m9134c28[m TYPO: section 02.06 do->to
+[33m1b55159[m Fix typo on 02.06-Boolean-Arrays-and-Masks
+[33m4464f08[m ERRATUM: make 02.06 example work on Python 2
+[33mf2c4a8a[m ERRATUM: Typo median->mean
+[33m577a55a[m Typo
+[33m55ed33e[m Merge pull request #65 from weirubin/patch-1
+[33m6774776[m Update link
+[33mb498e1c[m ERRATUM: missing NOT in logical identity
+[33m5fef93a[m Merge pull request #61 from anabranch/fix-license
+[33md05808f[m fix license :)
+[33m8ae064f[m VTYPOS: various
+[33mccafda3[m ERRATUM: change ggplot to ggpy
+[33m20ce5fe[m Typo: "as" -> "an"
+[33mb7d3870[m Typos: punctuation
+[33m2816ef4[m Typo: "make" -> "makes"
+[33ma19759a[m Typo: "clusers" -> "clusters"
+[33m94b8f28[m ERRATUM: change ``ipython-notebook`` install to ``jupyter``
+[33me70a1bc[m ERRATUM: change "feature" to "target array"
+[33m0b1f3d0[m Merge pull request #50 from fuglede/patch-7
+[33m4cc221b[m Fix a typo
+[33md0400d6[m Fix a few typos
+[33macc0963[m Fix a few typos
+[33m1faeb13[m Fix a typo
+[33mc1c76da[m Fix a few typos
+[33mc628cd2[m ERRATUM: change 0.1 inches to 0.2 inches
+[33mbf71379[m Merge pull request #46 from fuglede/patch-6
+[33m5ffc340[m Merge pull request #45 from fuglede/patch-5
+[33m2b1ab1e[m Merge pull request #43 from fuglede/patch-4
+[33ma1f86a0[m Merge pull request #42 from fuglede/patch-3
+[33m43176fb[m Fix typo in 02.06-Boolean-Arrays-and-Masks.ipynb
+[33m3f7200a[m correct jupyter notebook package name
+[33mc649385[m Change designation of the "Species" array from 'feature' to 'target array', as was likely intended.
+[33m78ce946[m Fix a typo
+[33m166498c[m Fix a typo
+[33m4ee8ee5[m Fix a few typos
+[33m8fff5aa[m Change http to https on a reference
+[33m6b4f391[m README: clarify requirements
+[33m1c7875d[m ERRATUM: incorrect ordering of plt.axis arguments
+[33ma2cf70a[m Merge pull request #41 from habi/patch-1
+[33mda0295d[m Typo?
+[33m0bf1526[m Merge pull request #40 from fuglede/patch-2
+[33m7f77626[m Fix a typo
+[33mfd31b88[m plt.axes args are [left, bottom, width, height]
+[33m482a914[m Merge pull request #33 from evolvah/master
+[33m76ca20e[m Merge pull request #35 from pkitslaar/patch-1
+[33m9e244dd[m Fixed typo
+[33mae17e29[m Update introductory words in README
+[33mea88ceb[m Minor consistency fix for OCD-inclined readers
+[33m470e8f2[m Merge pull request #32 from jackboot7/patch-1
+[33mccd740c[m Fixing typo
+[33mad7e9d8[m Typo: alingment->alignment
+[33m4825458[m Typo: Ooe-hot -> one-hot
+[33m950f26c[m Merge pull request #30 from fuglede/patch-1
+[33m16fb7a3[m Fix a typo
+[33m608a30f[m Typo: remove duplicate 'given in pixels' (issue #27)
+[33m36e9bd6[m Merge pull request #23 from vfdev-5/patch-1
+[33mbfed508[m Erratum: Typo in Naive Bayes formula
+[33ma569ddc[m Update 05.05-Naive-Bayes.ipynb
+[33m5b44af7[m Update 05.03-Hyperparameters-and-Model-Validation.ipynb
+[33m2b4b785[m Merge pull request #22 from aaronvanderlip/master
+[33mfb3c2f7[m Typo
+[33m3c55a33[m MAINT: requirements numpy v1.11.1
+[33m373ee6b[m Typos: the the
+[33me912ac1[m Erratum: show the correct test-set images in figure 5-21
+[33m95664b9[m Remove old code listings
+[33m7b650ca[m Minor copy-edits
+[33m5268aad[m copy-edit: change 'GMM model'
+[33m46cfb1c[m Finalize table of contents & navigation links
+[33mc05a84a[m Add kernelspec tool
+[33m80f4f56[m Add edited 05.15
+[33m16e6de8[m Add edited 05.14
+[33mb76c3fb[m Add edited 05.13
+[33m8761de2[m Fix issues in 05.11
+[33m9c1d489[m Add updated 05.12
+[33mc40f0b4[m Add updated 05.11
+[33mcecbc43[m add temporary files to gitignore
+[33mab198b5[m Add edited 05.10
+[33m683bcd2[m Fix appendix link
+[33m854ebc0[m Add edited 05.09
+[33m549507b[m Add edited 05.08
+[33m53ad98f[m Change to 05.07 for text
+[33mc9680f2[m Add edited 05.07
+[33m0995e71[m Minor updates to 05.06 to work with cached data
+[33md7ecb4b[m Add edited 05.06
+[33m6b30008[m remove stray debugging code in 0.4.09
+[33m6490cf4[m Add edited 05.05
+[33me00a617[m Add edited 05.04
+[33m7236c84[m Add edited 05.03
+[33m23c81c4[m Add edited 05.02
+[33me1c83fd[m Add edited 05.01
+[33ma23d67f[m Add edited 05.00
+[33m787221a[m Modify license discussion in README
+[33m01cfaa0[m Remove stray text from README
+[33m7d73511[m Add package info to README
+[33mf8d7745[m Update contents and nav links fowith chapter 4
+[33mf9a8aad[m Add edited 04.15
+[33m30ddfc3[m Add edited 04.14
+[33m6c7c5cc[m Add updated 04.13 and requirements
+[33m08e8e96[m Add edited 04.12
+[33mbf8b0b5[m Add edited 04.11
+[33mb14da1a[m Add edited 04.10
+[33m7ed6696[m Add edited 04.09
+[33md8deceb[m Add edited 04.08
+[33m92952a9[m Add california cities data
+[33maded0f6[m Add edited 04.07
+[33m2cdf1f7[m Add edited 04.06
+[33maec9315[m Add edited 04.05
+[33mecaa85b[m Add edited 04.04
+[33m58a3faf[m Add edited 04.03
+[33mf775536[m Add edited 04.02
+[33m0a7dbc7[m Add edited 04.01
+[33mabefc59[m add edited 04.00
+[33m9b262b6[m Remove old cover image
+[33m19deff9[m rearrange README
+[33m557d515[m remove old version of figure appendix
+[33mc9fe142[m reword README
+[33m9ed67d7[m Update headers, contents, and navigation links to add Chapter 3
+[33md3a232e[m Add edited 03.13
+[33made61b7[m Update gitignore
+[33m04ff418[m Add pandas datareader to requirements
+[33ma98ccbc[m Add edited 03.12
+[33m2f356e7[m Add edited 03.11
+[33m2762857[m change content generation to using jupyter
+[33mbd8d56c[m formatting in README
+[33m325cf73[m Note Python 3 requirement in README
+[33m325637a[m Change README links to nbviewer
+[33m431da7c[m Modify 03.10 to remove warning
+[33m6c9b1e6[m Add edited 03.10
+[33m2a83bf2[m Add missing reference in 03.09
+[33m53015ea[m Add births data to repo
+[33m678f093[m Add edited 03.09
+[33mfa6ae83[m Add seaborn to requirements
+[33m8f8b077[m Add edited 03.08
+[33m9f0ea34[m Update requirements with numexpr
+[33m52f1d26[m Add state datasets
+[33md66995c[m Add edited 03.07
+[33m1302b17[m Add edited 03.06
+[33m363938a[m Add edited 03.05
+[33m7930608[m Add edited 03.04
+[33mf8856f6[m Add edited 03.03
+[33maf4a97d[m Add edited 03.02
+[33m0276a55[m Add edited 03.01
+[33m3353117[m Add edited 03.00
+[33mccd8ff5[m Tweak formatting in contents
+[33m7d132c7[m update contents to include Chapter 2
+[33m0a12df4[m Add missing import
+[33m277e25e[m Add edited 02.09
+[33m764d8bf[m Add edited 02.08
+[33mb5b608d[m Add edited 02.07
+[33m356ac93[m add Seattle weather data
+[33m03411e2[m add edited 02.06
+[33m942ff2a[m Add Figure appendix
+[33mdf30e94[m Add edited 02.05
+[33me47e72b[m Add edited 02.04
+[33mc0644a4[m fix typo in 02.03
+[33me4afeea[m Add edited 02.03
+[33m8969050[m Add edited 02.02
+[33m1f8df68[m update nav links
+[33m7b5f7a4[m Make add navigation tool print progress
+[33m9f42681[m Add edited 02.01 and figures
+[33mdd4362a[m Add edited 02.00
+[33m79c7018[m Fix navbar in chapter 1
+[33mbcba383[m Fix preface
+[33m6dfdaa6[m Fix book info in chapter 1 notebooks
+[33m10f7882[m create tool for adding book info
+[33mc1f16bb[m add readme info for tools
+[33mc4294f3[m Adjust README TOC
+[33m50ce17b[m Add navigation bar to notebooks
+[33m738d179[m Update README table of contents
+[33m7ed353d[m Add tools for generating contents and navigation
+[33mb9142b7[m MAINT: add contents & adjust README
+[33md068025[m Make notebooks more prominent
+[33m5240b9a[m add contents to README
+[33m999df3f[m update requirements
+[33mb58a415[m Add edited 01.07-01.08
+[33m9aecb94[m Add edited 01.06
+[33m3f820f9[m add edited 01.05
+[33m662cb45[m Add edited 01.04
+[33mcb35147[m add edited 01.03
+[33m37d3fac[m add edited 01.02
+[33md370cb4[m add edited 01.01
+[33mc1c9cd8[m Add edited 01.00
+[33m8313647[m add requirements with versions
+[33mb430d11[m add Preface notebook
+[33m79632e4[m add Preface
+[33mac1b53d[m Add Python version note to README
+[33m96c7f75[m add data files
+[33m17e648f[m Tweaks to some examples in chapters 3 & 4
+[33m0568a7b[m update info about full notebooks
+[33mb68389f[m Add Whirlwind Tour link
+[33m11c54dc[m use smaller cover image
+[33m8a7b644[m add image to README
+[33mda830cb[m Add initial code listings
+[33mbc2c98b[m Change to MIT license
+[33m1f02bc1[m add BSD-3 License
+[33m5e4a810[m Initial commit
